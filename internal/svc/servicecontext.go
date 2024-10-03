@@ -1,7 +1,7 @@
 package svc
 
 import (
-	"api/internal/config"
+	"xueciya.com/internal/config"
 )
 
 type ServiceContext struct {
